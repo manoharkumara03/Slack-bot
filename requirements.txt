@@ -1,0 +1,5 @@
+Flask==2.2.5
+slack-sdk==3.17.1
+slack-bolt==1.17.0
+python-dotenv==1.0.0
+sqlite3  # sqlite3 is included with Python, but if using a standalone package, specify it here
